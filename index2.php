@@ -9,7 +9,7 @@
 <?php
 echo '<table width="50%" border="1" cellspacing="10" cellpadding="10">
   <caption align="top">
-    Table
+    Table Record
   </caption>
   <tr>
     <td>Abc</td>
