@@ -20,6 +20,7 @@ echo '<table width="50%" border="1" cellspacing="10" cellpadding="10">
     <td>sdfd</td>
     <td>fgh</td>
     <td>gfjhhghb</td>
+	<td></td>
   </tr>
   <tr>
     <td>fgj</td>
